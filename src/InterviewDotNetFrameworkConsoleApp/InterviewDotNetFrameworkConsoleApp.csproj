@@ -45,6 +45,9 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Scenario1\Recursion.cs" />
+    <Compile Include="Scenario2\CleanCoding.cs" />
+    <Compile Include="Scenario2\WebServer.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
