@@ -12,12 +12,12 @@ namespace InterviewDotNetFrameworkConsoleApp.Scenario1
          * Task 3: Make it an iterative function call.
          * 
          */
-    class Program_Scenario1
+    class Program
     {
         /*
         DO NOT FIX ANYTHING HERE
         */
-        public static void Main1(string[] args)
+        public static void Main(string[] args)
         {
             // 6! (factorial) is equal to....
             // 6 * 5 * 4 * 3 * 2 * 1

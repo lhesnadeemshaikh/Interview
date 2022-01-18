@@ -12,8 +12,8 @@ namespace InterviewDotNetFrameworkConsoleApp
     {
         static void Main(string[] args)
         {
-            //Program_Scenario1.Main1(args);
-            //Program_Scenario2.Main2();
+            // Program_Scenario1.Main1(args);
+            // Program_Scenario2.Main2();
         }
     }
 }
